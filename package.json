@@ -1,7 +1,7 @@
 {
-  "name": "backend",
-  "version": "1.0.0",
-  "main": "src/server.js",
+  "name": "julio",
+  "version": "1",
+  "main": "app.js",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
@@ -16,5 +16,8 @@
     "jest": "^25.2.6",
     "nodemon": "^2.0.4",
     "supertest": "^4.0.2"
-  }
+  },
+  "description": "oi",
+  "repository": "https://github.com/rocketseat-education/gostack-template-conceitos-nodejs.git",
+  "author": "Julio Campos <julio.campos2@fatec.sp.gov.br>"
 }
